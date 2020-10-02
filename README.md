@@ -5,17 +5,17 @@
 
 
 ## About Me :wave:
-<a href="https://twitter.com/maxbridgland" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/maxbridgland/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hey! I'm Max, a 20 year old software developer and QA engineer for [@Reggora](https://github.com/Reggora) working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
+<a href="https://twitter.com/anonymousid" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/anonymous/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+Hey! I'm AhmadChenWangXuesi , a 18 year old software developer and QA engineer for [@ahmadchenwangxuesi](https://github.com/ahmadchenwangxuesi) working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
 
 :moneybag: **Feeling Generous? Help Support Me** :moneybag:
 
-<a href="https://github.com/sponsors/M4cs" target="_blank"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"></a>
+<a href="https://github.com/sponsors/ahmadchen" target="_blank"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"></a>
 <img src="https://badges.pufler.dev/visits/M4cs/M4cs">
 <img src="https://badges.pufler.dev/years/M4cs">
 
 ## My Projects :pencil:
-<a href=""><img src="https://github-readme-stats.vercel.app/api/?username=M4cs&theme=prussian&show_icons=true&count_private=true" align="right"></a>
+<a href=""><img src="https://github-readme-stats.vercel.app/api/?username=ahmadchen&theme=prussian&show_icons=true&count_private=true" align="right"></a>
 
 ### :baby: Babysploit - Penetration Testing Framework for Beginners
 
@@ -55,11 +55,11 @@ Pixcryption's goal is to offer a new form of steganography/encryption through im
 
 | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/422a0856c0e58cf6875ebdd0db317fc8.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/7025d41841b4cc0ad3a3c772bc253a68.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/8a2271b72b6af3934041da456015d408.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/1a9da029e1881e491be6b60ce93e108d.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/2eb7c27e82d508727370577dc86cb2ba.jpg> | <img src=https://raw.githubusercontent.com/M4cs/M4cs/master/artist_images/08d5e55594a26939ac04a91667a0006c.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Trippie Redd</b> | <b>lil tjay</b> | <b>Frosty</b> | <b>Drake</b> | <b>Roddy Ricch</b> | <b>Lil Tecca</b>  |
+| <b>Anonymous ID</b> | <b>Anonymous ID</b> | <b>Anonymous ID</b> | <b>Anonymous ID</b> | <b>Anonymous ID</b> | <b>Anonymous ID</b>  |
 
 
 ## Readme Projects:
 
-**[Github-NP](https://github.com/M4cs/github-np)** - Github Now Playing, Display Spotify Now Playing in GitHub Readmes!
+**[Github-NP](https://github.com/ahmadchen/github-np)** - Github Now Playing, Display Spotify Now Playing in GitHub Readmes!
 
 **[myartists](https://github.com/M4cs/M4cs/blob/master/myartists.md)** - Display top listened to artists this week
